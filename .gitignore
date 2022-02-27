@@ -6,3 +6,6 @@ dist-ssr
 coverage
 .eslintcache
 pnpm-lock.yaml
+storybook-static
+.idea
+.vscode
